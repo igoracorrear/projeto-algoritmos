@@ -26,7 +26,7 @@ Isso demonstra que o programa é capaz de encontrar o caminho mais curto entre d
 
 
 Referências:
-Skewed Data - Networks. Polblogs. Disponível em: <https://networks.skewed.de/net/polblogs>. Acesso em: [18/01/2024].
+Skewed Data - Networks. Polblogs. Disponível em: <https://networks.skewed.de/net/polblogs>. Acesso em: [14/07/2024].
 
 <br/>
 
